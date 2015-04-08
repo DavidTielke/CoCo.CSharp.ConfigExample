@@ -1,0 +1,9 @@
+﻿[
+    {
+        "Type": "System.Boolean",
+        "Value": "false",
+        "Key": "toupper",
+        "Area": "transforms",
+        "Persist": true
+    }
+]
